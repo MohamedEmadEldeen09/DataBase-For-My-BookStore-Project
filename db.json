@@ -1,0 +1,27 @@
+{
+    "Books": [
+      {
+        "id": 1,
+        "author": "Mohamed",
+        "title": "sci-Fiction",
+        "catagory": "Science",
+        "description": "this is a book 1",
+        "text": ""
+      },
+      {
+        "id": 2,
+        "author": "Ahmed",
+        "title": "USA-Battle",
+        "catagory": "Science",
+        "description": "this is a book 2",
+        "text": ""
+      },
+      {
+        "author": "mikel",
+        "title": "math",
+        "description": "book about math",
+        "catagory": "Science",
+        "id": 6
+      }
+    ]
+  }
